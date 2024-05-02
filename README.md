@@ -1,5 +1,5 @@
  <p align="center">
- <a href="https://ko-fi.com/T6T2J9FXN">
+ <a href="https://logge.rs">
  <img src="https://komarev.com/ghpvc/?username=yung4L&style=flat-square"/>
 </p>
  <p align="center"><br>
